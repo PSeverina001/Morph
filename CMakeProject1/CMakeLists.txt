@@ -12,4 +12,7 @@ find_package(ImageMagick COMPONENTS Magick++ convert)
 
 include_directories(${ImageMagick_INCLUDE_DIRS})
 target_link_libraries(CMakeProject1 ${ImageMagick_LIBRARIES})
-# TODO: Добавьте тесты и целевые объекты, если это необходимо.
+
+find_package(GLUT)
+include_directories( ${GLUT_INCLUDE_DIRS} )
+target_link_libraries(CMakeProject1 ${GLUT_LIBRARY} )
