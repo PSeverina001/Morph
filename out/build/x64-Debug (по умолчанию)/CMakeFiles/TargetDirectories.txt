@@ -1,0 +1,5 @@
+C:/Users/Polina Severina/Desktop/lab2 sharamet/3kurs/CMakeProject1/out/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
+C:/Users/Polina Severina/Desktop/lab2 sharamet/3kurs/CMakeProject1/out/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir
+C:/Users/Polina Severina/Desktop/lab2 sharamet/3kurs/CMakeProject1/out/build/x64-Debug (по умолчанию)/CMakeProject1/CMakeFiles/CMakeProject1.dir
+C:/Users/Polina Severina/Desktop/lab2 sharamet/3kurs/CMakeProject1/out/build/x64-Debug (по умолчанию)/CMakeProject1/CMakeFiles/edit_cache.dir
+C:/Users/Polina Severina/Desktop/lab2 sharamet/3kurs/CMakeProject1/out/build/x64-Debug (по умолчанию)/CMakeProject1/CMakeFiles/rebuild_cache.dir
